@@ -9,3 +9,4 @@ texture_filter = 1
 texture = ExtResource("1_m0uot")
 hframes = 4
 vframes = 7
+frame = 3
